@@ -1,75 +1,69 @@
 # Cartas Alicerçadas
 
-Website desenvolvido para apresentar o grupo de jovens **Cartas Alicerçadas**, reunindo informações sobre o ministério, localização, atividades e eventos.
+O **Cartas Alicerçadas** foi um dos meus primeiros projetos em desenvolvimento Front-End.
 
-Este foi um dos meus primeiros projetos em **desenvolvimento Front-End** e teve como principal objetivo colocar em prática meus conhecimentos iniciais de **HTML, CSS e Flexbox**, trabalhando estruturação de páginas, organização visual e responsividade.
+O site foi criado a partir de uma proposta da liderança do grupo de jovens **Cartas Alicerçadas**, com o objetivo de apresentar o ministério de forma simples e acessível para novos visitantes, reunindo informações sobre o grupo, sua localização, atividades e eventos.
+
+Ao mesmo tempo, o projeto se tornou uma oportunidade para colocar em prática meus conhecimentos iniciais de **HTML, CSS e Flexbox**, principalmente na construção de layouts, organização de conteúdo e adaptação da página para diferentes tamanhos de tela.
 
 ---
 
-## Sobre o projeto
+## Visão geral
 
-O projeto surgiu a partir de uma proposta da liderança do grupo de jovens, que buscava uma forma simples de apresentar o ministério para novos visitantes.
+A página foi estruturada como um site institucional, com navegação entre diferentes áreas do conteúdo e seções dedicadas a informações importantes do grupo.
 
-A partir dessa necessidade, desenvolvi uma página institucional contendo informações sobre o grupo e suas principais atividades, incluindo seções como:
+Entre os principais conteúdos apresentados estão:
 
-- Quem somos
-- Localização
-- Ministério
-- Acampamento
+- **Quem somos**
+- **Localização**
+- **Ministério**
+- **Acampamento**
 
-Além de atender à proposta inicial, o projeto serviu como uma experiência prática importante no início dos meus estudos em desenvolvimento web.
+A proposta foi manter a navegação simples e organizar as informações de forma que um novo visitante pudesse compreender rapidamente a identidade e as atividades do grupo.
 
 ---
 
 ## Demonstração
 
-![Página inicial do projeto Cartas Alicerçadas](./assets/cartas-alicercadas.png)
+<p align="center">
+  <img 
+    src="./imagens/cartas-alicercadas.jpeg" 
+    alt="Página inicial do projeto Cartas Alicerçadas"
+    width="720"
+  />
+</p>
 
-A interface apresenta a identidade visual do grupo, uma seção institucional com informações sobre o ministério e um destaque visual para localização e atividades do projeto.
-
-> Altere o caminho da imagem acima caso ela esteja salva em outra pasta do repositório.
+A interface utiliza a identidade visual do grupo e combina conteúdo institucional com elementos gráficos de destaque, criando uma página simples e direta para apresentação do ministério.
 
 ---
 
-## Tecnologias utilizadas
+## Desenvolvimento
+
+O projeto foi construído utilizando tecnologias fundamentais do desenvolvimento Front-End:
 
 - **HTML5**
 - **CSS3**
 - **Flexbox**
 
----
+Durante o desenvolvimento, trabalhei principalmente com:
 
-## Funcionalidades
-
-- Menu de navegação entre seções
-- Estrutura de página institucional
-- Seções informativas sobre o ministério
-- Banner e elementos visuais de apresentação
-- Organização de layout com Flexbox
-- Adaptação da interface para diferentes tamanhos de tela
+- Organização de seções dentro de uma mesma página;
+- Criação de menu de navegação;
+- Construção de banners e áreas de destaque;
+- Alinhamento e distribuição de elementos com Flexbox;
+- Adaptação do layout para diferentes tamanhos de tela.
 
 ---
 
-## Principais aprendizados
+## O que esse projeto me ensinou
 
-Por ter sido desenvolvido no início da minha jornada com Front-End, este projeto foi importante para consolidar conceitos fundamentais, como:
+Por ter sido desenvolvido no início dos meus estudos, o **Cartas Alicerçadas** teve um papel importante na construção da minha base em desenvolvimento web.
 
-- Estruturação de páginas com HTML
-- Organização e estilização de elementos com CSS
-- Construção de layouts utilizando Flexbox
-- Navegação entre diferentes seções da página
-- Introdução à responsividade
-- Organização visual de conteúdos em uma interface web
+Um dos principais desafios foi transformar um conjunto de informações sobre o grupo em uma página visualmente organizada e fácil de navegar. Para isso, precisei entender melhor como estruturar uma página, distribuir seus elementos e manter uma identidade visual consistente.
 
----
+Também tive meus primeiros contatos práticos com **responsividade** e com o uso do **Flexbox** para resolver problemas de alinhamento e posicionamento.
 
-## Desafios enfrentados
-
-Um dos principais desafios foi transformar o conteúdo fornecido pelo grupo em uma página visualmente organizada e fácil de navegar, utilizando apenas os conhecimentos que eu possuía naquele momento.
-
-Também foi necessário aprender a estruturar diferentes seções, trabalhar alinhamentos com **Flexbox** e realizar ajustes para que o conteúdo se adaptasse melhor a diferentes tamanhos de tela.
-
-Esse processo foi importante para fortalecer minha base em **HTML e CSS** e me dar mais segurança para desenvolver projetos maiores posteriormente.
+Mais do que o resultado visual, esse projeto marcou uma etapa importante da minha evolução, pois foi uma das primeiras vezes em que utilizei HTML e CSS para construir uma solução completa a partir de uma necessidade real.
 
 ---
 
@@ -78,13 +72,13 @@ Esse processo foi importante para fortalecer minha base em **HTML e CSS** e me d
 **Início:** Dezembro de 2024 / Janeiro de 2025  
 **Conclusão:** 24 de janeiro de 2025
 
-Projeto desenvolvido como prática independente durante meus primeiros estudos em desenvolvimento Front-End.
+O projeto foi desenvolvido como prática independente durante o início da minha jornada em desenvolvimento Front-End.
 
 ---
 
 ## Acesse o projeto
 
-🔗 **Projeto online:**  
+**Projeto online:**  
 https://henriqueyamada.github.io/Cartas-Alicercadas
 
 ---
