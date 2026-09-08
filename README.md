@@ -1,4 +1,4 @@
-#  Cartas Discernidas
+#  Cartas Alicerçadas
 
 Website desenvolvido para apresentar o grupo de jovens **Cartas Alicerçadas**, reunindo informações sobre o ministério, localização, integrantes e eventos como o acampamento anual.
 
